@@ -639,4 +639,3 @@
 | 630 | Soccsksargen | Soccsksargen | PH-12 | <ul><li>`4` - Asia</li> <li>`19` - Islands</li> <li>`41` - Southeast Asia</li></ul> | <ul><li>`138` - Republic of the Philippines</li></ul> |
 | 631 | Caraga Administrative Region | Caraga | PH-13 | <ul><li>`4` - Asia</li> <li>`19` - Islands</li> <li>`41` - Southeast Asia</li></ul> | <ul><li>`138` - Republic of the Philippines</li></ul> |
 | 632 | Bangsamoro Autonomous Region in Muslim Mindanao | Bangsamoro | PH-14 | <ul><li>`4` - Asia</li> <li>`19` - Islands</li> <li>`41` - Southeast Asia</li></ul> | <ul><li>`138` - Republic of the Philippines</li></ul> |
-| 633 | Pomorskie | Pomorskie | PL-1 | <ul><li>`3` - Europe</li> <li>`39` - European Union</li> <li>`48` - North Atlantic Treaty Organization</li></ul> | <ul><li>`139` - Republic of Poland</li></ul> |
